@@ -1,4 +1,5 @@
-![Jplsbyu-removebg-preview](https://github.com/user-attachments/assets/470e1cca-f564-454e-93ea-f63d03f7a4ae)
+![Shorter cs logo transparent](https://github.com/user-attachments/assets/ee8b3111-2148-4279-85f3-e6bdb2b6741f)
+
 # Alsager Computing Society
 Computing Society of Alsager School (Sixth form)
 
