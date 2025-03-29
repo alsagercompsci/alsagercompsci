@@ -4,7 +4,7 @@
 Computing Society of Alsager School (Sixth form)
 
 ## Members on GitHub
-@98percentcarbon, @tbperson
+@alymer7, @tbperson
 
 
 
