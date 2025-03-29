@@ -12,5 +12,4 @@ Computing Society of Alsager School (Sixth form)
 https://alsagercompsci.github.io/
 
 
-Important repos by us are starred by this account 
-
+Important repos by our members are starred by this account (See the "stars" at the top of this page)
