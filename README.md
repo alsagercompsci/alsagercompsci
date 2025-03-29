@@ -6,10 +6,10 @@
 # Alsager Computing Society
 Computing Society of Alsager School (Sixth form)
 
-## Members on GitHub
+### Members on GitHub
 @alymer7, @tbperson
 
-## Check out the website
+### Check out the website
 https://alsagercompsci.github.io/
 
 # General information
