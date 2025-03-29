@@ -21,3 +21,5 @@ https://cs50.harvard.edu/x/
 https://cs50.harvard.edu/python
 - **W3Schools Example-based tutorials to programming. Linked is the python tutorials:**
 https://www.w3schools.com/python/default.asp
+- **Hack Club - A nonprofit network for hackers and coders worldwide with programs for everyone:**
+https://hackclub.com/
