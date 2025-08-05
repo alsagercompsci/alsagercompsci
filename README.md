@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/ee8b3111-2148-4279-85f3-e6bdb2b6741f" alt="Shorter cs logo transparent">
 </p>
 
-## ‼️This page is no longer being maintained and could include outdated or incorrect info.‼️
+## ‼️This page is no longer being maintained and could include outdated or incorrect info.
 
 
 # Alsager Computing Society
